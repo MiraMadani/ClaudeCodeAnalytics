@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Database
+database/*.duckdb
+
+# Data
+data/*.jsonl
+
+# OS
+.DS_Store
+Thumbs.db

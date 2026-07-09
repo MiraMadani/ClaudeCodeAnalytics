@@ -1,0 +1,5 @@
+pandas
+duckdb
+plotly
+dash
+pytest
