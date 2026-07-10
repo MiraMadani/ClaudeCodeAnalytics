@@ -181,16 +181,11 @@ data/
 
 ### Executive Overview
 
-*(Add dashboard screenshots here after running the application.)*
+<img width="1679" height="771" alt="image" src="https://github.com/user-attachments/assets/9e890828-7e19-4590-83a5-a42b6fb2ff04" />
 
-Example:
+<img width="1773" height="551" alt="image" src="https://github.com/user-attachments/assets/4c67fdf8-4b0b-47de-8582-02e1413ce20c" />
 
-```
-screenshots/
-├── dashboard.png
-├── filters.png
-└── kpis.png
-```
+<img width="881" height="529" alt="image" src="https://github.com/user-attachments/assets/05b3f5fe-24de-4bed-85e2-0e856702db4b" />
 
 ---
 
