@@ -36,16 +36,22 @@ The project implements a complete ETL pipeline:
 ```text
 claude-code-analytics/
 │
-├── analytics/          # Business metrics and SQL analytics
-├── dashboard/          # Dash application
-├── database/           # DuckDB schema and repository
-├── etl/                # Loading, cleaning and validation
-├── tests/              # Unit tests
-├── data/               # Input datasets (not included)
+├── analytics/        # Business metrics and SQL analytics
+├── dashboard/        # Dash dashboard application
+├── database/         # DuckDB connection, schema and repository
+├── ingest/           # Data loading, cleaning and validation
+├── tests/            # Unit tests
+├── data/             # Input datasets (not included)
+├── docs/             # Presentation
+|
 │
-├── main.py             # ETL pipeline
+├── main.py           # ETL pipeline entry point
 ├── requirements.txt
-└── README.md
+├── README.md
+├── AGENTS.md
+├── LLM_USAGE.md
+├── .env.example
+└── .gitignore
 ```
 
 ---
