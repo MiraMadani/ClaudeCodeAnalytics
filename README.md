@@ -198,14 +198,4 @@ data/
 - More advanced analytics
 - Authentication
 
----
 
-## Author
-
-**Amira Madani**
-
-Applied Mathematics Student  
-Odesa I. I. Mechnikov National University
-
-GitHub: https://github.com/MiraMadani
-LinkedIn: https://www.linkedin.com/in/madani-mira-03b135388/
